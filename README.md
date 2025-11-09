@@ -15,14 +15,12 @@ This is a local dashboard project. No live app or service endpoints.
 Data processed in Excel, visualized in Power BI.
 
 ## 📁 Directory Structure
-blinkit-dashboard/
-├─ data/
-│  ├─ blinkit_campaign_data.xlsx
-├─ visuals/
-│  ├─ dashboard_screenshots/
-├─ assets/
-│  ├─ campaign_summary.pdf
-├─ README.md
+blinkit-dashboard/  
+├─ data/  
+│  ├─ blinkit_campaign_data.xlsx  
+├─ assets/  
+│  ├─ campaign_summary.pdf     
+├─ README.md  
 
 ## ✨ Features
 - Campaign-wise ROI and conversion metrics
