@@ -22,6 +22,9 @@ blinkit-dashboard/
 │  ├─ campaign_summary.pdf     
 ├─ README.md  
 
+## 📸 Screenshots
+<img width="1584" height="912" alt="Screenshot 2025-11-05 225710" src="https://github.com/user-attachments/assets/75bd0d25-e112-4c6a-b899-5a8bb10eb39b" />
+
 ## ✨ Features
 - Campaign-wise ROI and conversion metrics
 - Monthly sales trend visualization
